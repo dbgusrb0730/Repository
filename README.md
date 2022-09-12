@@ -1,4 +1,4 @@
-### The Great Artificial Intelligence Emperor 🛶
+### The Great Artificial Intelligence Engineer 🛶
 
 Owner : Yoo Hyeon Gyu <'GACHON UNIVERCITY'>
 
