@@ -1,6 +1,6 @@
 ### The Great Artificial Intelligence Emperor 🛶
 
-Owner : Yoo Hyeon Gyu <GACHON UNIVERCITY>
+Owner : Yoo Hyeon Gyu <'GACHON UNIVERCITY'>
 
 <!--
 **dbgusrb0730/dbgusrb0730** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
